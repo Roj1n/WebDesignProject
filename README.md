@@ -10,8 +10,7 @@ This project is a simple cafe website developed using Flask, HTML, CSS, JS, and 
 - Project Structure
 - Technologies Used
 - Contributing
-- License
-- Acknowledgements
+
 
 
 *Features*
