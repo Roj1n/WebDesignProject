@@ -1,6 +1,11 @@
 # Cafe Website Project
 This project is a simple cafe website developed using Flask, HTML, CSS, JS, and jQuery. The website allows users to make table reservations by filling out a form.
 
+### Live Demo
+
+You can check out the live demo of the project here: [Live Demo](https://web-design-project-rho.vercel.app/)
+
+
 *Table of Contents*
 - Features
 - Getting Started
